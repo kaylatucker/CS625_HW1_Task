@@ -9,3 +9,7 @@
 * open the repo in your web browser at GitHub.com
 * make and commit changes to the other file in the repo on GitHub.com
 * pull changes back to your local machine
+
+---
+
+- making a change for the sake of HW1
